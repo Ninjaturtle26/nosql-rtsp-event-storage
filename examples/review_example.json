@@ -1,0 +1,9 @@
+{
+  "_id": "review_001",
+
+  "event_id": "event_001",
+
+  "classification": "false_positive",
+
+  "reason": "mudança de iluminação"
+}
