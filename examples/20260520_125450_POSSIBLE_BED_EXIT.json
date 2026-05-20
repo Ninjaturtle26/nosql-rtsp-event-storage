@@ -1,0 +1,29 @@
+{
+    "event_id": "20260520_125450",
+    "project": "bed-monitoring-project",
+    "camera": {
+        "camera_id": "camera1",
+        "location": "bedroom",
+        "stream": "stream2"
+    },
+    "session": {
+        "session_name": "session_20260520_124625",
+        "started_at": "2026-05-20T12:46:25"
+    },
+    "event": {
+        "type": "POSSIBLE_BED_EXIT",
+        "start_frame": 7517,
+        "end_frame": 7562
+    },
+    "files": {
+        "attention_video": null,
+        "session_video": "outputs/camera1/live_sessions/session_20260520_124625_*.mp4",
+        "possible_snapshot": "outputs/camera1/possible_frames/20260520_125450_possible.jpg"
+    },
+    "model": {
+        "motion_model": "MOG2",
+        "history": 336,
+        "attention_window": 210
+    },
+    "created_at": "2026-05-20T12:54:50"
+}
