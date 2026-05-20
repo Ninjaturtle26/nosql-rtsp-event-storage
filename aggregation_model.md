@@ -1,5 +1,8 @@
-# Hierarquia e Agregações
 
+
+## Hierarchical Aggregation Model
+
+```text
 Camera
  └── Session
       └── Event
@@ -8,3 +11,4 @@ Camera
            ├── Detection Parameters
            ├── Motion Masks
            └── Human Validation
+```
