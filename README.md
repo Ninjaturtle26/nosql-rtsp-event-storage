@@ -69,10 +69,11 @@ Responsável futuramente pelo armazenamento de:
 # 🧩 Hierarquia de Informações
 
 A estrutura principal do sistema segue a hierarquia:
+```text
 Camera
  └── Session
       └── Event
-
+```
 ## 👥 Integrantes
 
 - Rafael Sansevero Martins Lima
